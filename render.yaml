@@ -4,5 +4,4 @@ services:
     env: node
     buildCommand: npm install
     startCommand: npm start
-    envVars:
-      NODE_ENV: production
+ 
